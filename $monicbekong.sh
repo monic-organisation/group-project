@@ -6,3 +6,4 @@ sudo df -h
 sudo free -m
 sudo du -h
 sudo lscpu
+sudo ls
